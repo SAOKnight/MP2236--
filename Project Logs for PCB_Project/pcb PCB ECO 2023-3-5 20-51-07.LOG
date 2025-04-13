@@ -1,0 +1,38 @@
+Added Component: Designator=C1(0603C)
+Added Component: Designator=C2(0603C)
+Added Component: Designator=C3(0603C)
+Added Component: Designator=D1(SMA/DO-214AC)
+Added Component: Designator=EC1(DIP-EC3.5X8X11.5)
+Added Component: Designator=L1(CDRH73)
+Added Component: Designator=R1(0603R)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=US1(SOP8-Pad)
+Added Pin To Net: NetName=6V Pin=EC1-1
+Added Pin To Net: NetName=6V Pin=L1-2
+Added Pin To Net: NetName=6V Pin=R1-2
+Added Net: Name=6V
+Added Pin To Net: NetName=7.2V Pin=C1-2
+Added Pin To Net: NetName=7.2V Pin=C2-2
+Added Pin To Net: NetName=7.2V Pin=US1-7
+Added Net: Name=7.2V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=GND Pin=EC1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=US1-6
+Added Pin To Net: NetName=GND Pin=US1-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=US1-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=D1-K
+Added Pin To Net: NetName=NetC3_2 Pin=L1-1
+Added Pin To Net: NetName=NetC3_2 Pin=US1-8
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=US1-4
+Added Net: Name=NetR1_1
+Added Class: Name=Sheet1
